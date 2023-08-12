@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="popup1_height">300dp</dimen>
+    <dimen name="popup2_height">350dp</dimen>
+    <dimen name="popup_elevation">8dp</dimen>
+</resources>
